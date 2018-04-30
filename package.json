@@ -1,0 +1,21 @@
+{
+  "contributors": [
+    {
+      "name": "Andreas Hilbig",
+      "url": "https://github.com/ahilbig/types-threex.git"
+    }
+  ],
+  "dependencies": {
+  },
+  "description": "TypeScript definitions for threex.js (http://www.threejsgames.com/extensions ).",
+  "devDependencies": {},
+  "directories": {},
+  "license": "MIT",
+  "main": "",
+  "name": "@types/threex",
+  "optionalDependencies": {},
+  "readme": "README.md",
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "version": "0.91.10"
+}
