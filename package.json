@@ -7,7 +7,7 @@
   ],
   "dependencies": {
     "three": "^0.87.1",
-    "@types/three": "^0.91.10"
+    "@types/three": "^0.91.10",
     "three-orbitcontrols-ts": "^0.1.2",
     "threex.domevents": "^1.0.1"
   },
