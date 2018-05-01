@@ -6,6 +6,9 @@
     }
   ],
   "dependencies": {
+    "three": "^0.87.1",
+    "three-orbitcontrols-ts": "^0.1.2",
+    "threex.domevents": "^1.0.1"
   },
   "description": "TypeScript definitions for threex.js (http://www.threejsgames.com/extensions ).",
   "devDependencies": {},
